@@ -8,5 +8,5 @@ I am a Student and am still learning
 I am more than happy for you to use the code to help you acheve your project
 but please if you're going to copy my website design please credit me by linking back to my repository or website
 
-repository: https://github.com/Avan-xli/Avan-xli.github.io
+repository: https://github.com/Avan-xli/Avan-xli.github.io \n
 website:    https://A418.org
